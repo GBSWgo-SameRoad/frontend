@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#postpage_header {
+    width: 100%;
+    height: 80px;
+    background-image: linear-gradient(90deg, #FFE500, #FFB800);
+}
+
+#postpage_logo {
+    width: 100px;
+    margin: auto;
+    display: block;
+    padding-top: 15px;
+}
